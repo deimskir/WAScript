@@ -1,0 +1,20 @@
+[center][img]https://i.imgur.com/16l1Fh8.png[/img][/center][hr][center][size=200][font=Courier New][b]URA World Assembly Recommendation[/b][/font][/size][/center][hr]
+[center][size=300][color=#00bacf][b]$name[/b][/color][/size]
+[spoiler=[size=200][font=Verdana][b][i]READ THE PROPOSAL[/i][/b][/font][/size]][box][align=left][font=Georgia][size=120]$con[/size][/font][/align][/box][/spoiler]
+[size=120]This [b]$typ[/b] resolution was written by [nation]$auth[/nation] to [B]WHAT DOES IT DO[/B]. You can find the drafting thread on the forums [url=$for]here.[/url][/size][/center]
+[box][center][size=200][color=#00bacf][b]The United Regions Alliance recommends that you vote [/color]$rec [color=#00bacf]the resolution[/b][/color][/size][/center][hr][size=120]QUICK REASONING AS TO WHAT THE RESOLUTION DOES, HOW THE ALLIANCE SUPPORTS IT/ITS IDEALS (OR DOESN'T).
+[/size][hr]
+[size=120]The following comments were given during discussion on the [url=https://discord.gg/BExPgPF]URA Discord server[/url]:[/size]
+
+QUOTES FROM DISCORD DISCUSSION
+
+[/box]
+[box][center][size=200][color=#00bacf][b]Internal voting results[/b][/color][/size][/center][hr][size=130]
+[floatright]Turnout: $tof Members
+Weighted turnout: $tow%[/floatright][/size]
+[floatleft][spoiler=[color=#2fc657][font=Verdana][size=175]AYES: $aye%[/size][/font][/color]][box]
+[list]$avt[/list][/box][/spoiler]
+[spoiler=[color=#ea4335][size=175]NAYS: $nay%[/size][/color]][box][list]$nvt[/list][/box][/spoiler]
+[spoiler=[size=175]ABSTENTIONS: $abs%[/size]]
+[box][list]$abvt[/list][/box][/spoiler]
+[/floatleft][/box][hr][size=75][i]This document was authored by [nation]Echoslavia[/nation] and [nation]Suvmia[/nation] on behalf of the United Regions Alliance. Please do not reproduce it without permission.[/i][/size]

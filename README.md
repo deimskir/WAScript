@@ -1,4 +1,4 @@
-# URAScript
+# WAScript
 
 An improved (?) script used for WA bloc management.
 

@@ -417,10 +417,6 @@ def DisplayHelp(client : nationstates.Nationstates, flags : list, *args):
 
 def Exit(client, flags, *args) -> None:
     os._exit(0)
-
-if __name__ == "__main__":
-    client = nationstates.Nationstates("Deims Kir testing script")
-    print(CalculateVotes(client, ["--input"], True, ["0"]))
     
 
     
